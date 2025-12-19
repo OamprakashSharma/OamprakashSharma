@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hey, I’m Oam<br><br>I’m an AI & ML engineering student who loves building things that think, adapt, and actually solve real problems. I enjoy working at the point where low-level engineering meets high-level intelligence—from writing C programs to optimizing ML models on GPUs.<br><br>I treat GitHub as my lab: a place to experiment, break things, and rebuild them better.<br><br>What I’m Currently Building<br><br>AI Agents that can plan and execute tasks on their own<br><br>CUDA-accelerated ML workflows on RTX hardware<br><br>APIs and command-line tools that behave like production systems<br><br>Algorithm implementations from scratch for deep understanding<br><br>Automation tools that cut repetitive work to zero<br><br>My Goals<br><br>Long-term: Build a startup in AI automation and intelligent infrastructure. Right now: Find an internship where I can work on real-world engineering challenges and learn from strong builders.<br><br>I like roles involving:<br><br>Machine Learning Engineering<br><br>Backend / Systems Engineering<br><br>AI Automation / Agents<br><br>Performance Optimization<br><br>How I Think<br><br>I prefer first-principles learning: understand the internals, not just the API.<br><br>I build fast, iterate faster, and document everything.<br><br>I focus on clarity, performance, and long-term maintainability.<br><br>I’d rather build something small & excellent than something big & sloppy.<br><br>🛠 Tech I Work With<br><br>Languages: Python, C, C++, Java (learning), Bash AI/ML: PyTorch, NumPy, Pandas, Scikit-learn Systems: Linux, APIs, CLI development, GPU workflows Tools: Git, GitHub, VS Code, Jupyter, Postman<br><br>Some Things I’m Exploring<br><br>Efficient model training<br><br>GPU memory optimizations<br><br>Intelligent task automation<br><br>Microservice-oriented ML tooling<br><br>LLM-based reasoning systems<br><br>📂 Pinned Projects Coming Soon<br><br>I’m currently restructuring my repos to highlight:<br><br>ML pipelines<br><br>Systems-level automation tools<br><br>AI agent prototypes<br><br>Custom algorithm implementations<br><br>Expect cleaner repos and better READMEs soon.<br><br>Let’s Connect<br><br>If you're building something ambitious in AI or engineering, I’d love to connect or collaborate. I’m always open to feedback, ideas, and internship opportunities.<br><br>contact : contact@oamprakash.dev<br><br>instagram :_oam.official
 
-<!--
-**OamprakashSharma/OamprakashSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_oam._official_?igsh=dW13ejEyNDd1ZWsz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/oam-prakash-sharma-519b23331) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Oamprakash Sharma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SharmaOam82689) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@oamprakash.dev) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OamprakashSharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OamprakashSharma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OamprakashSharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=OamprakashSharma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=OamprakashSharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=OamprakashSharma&icon=3&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
